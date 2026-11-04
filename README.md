@@ -34,3 +34,5 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - 1 kesalahan umum dan cara menghindarinya
 
 ## Daftar Isi
+[P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
+[P00 — date](docs/P00-date.md)
