@@ -1,4 +1,4 @@
-# date
+# Date
 Menampilkan dan mengatur format tanggal serta jam.
 
 C:\Users\Idan Al-Khalid> date
