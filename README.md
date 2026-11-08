@@ -33,6 +33,9 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - 3 contoh perintah + output dari laptop kamu sendiri
 - 1 kesalahan umum dan cara menghindarinya
 
+## Daftar CV
+- P11 - Muhammad Wijdan
+
 ## Daftar Isi
-[P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
-[P00 — date](docs/P00-date.md)
+- [P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
+- [P00 — date](docs/P00-date.md)
