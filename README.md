@@ -34,7 +34,7 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - 1 kesalahan umum dan cara menghindarinya
 
 ## Daftar CV
-- P11 - Muhammad Wijdan
+- P11 - Muhammad Wijdan Alkhalid
 - P00 - Idan Al-Khalid
 
 ## Daftar Isi
