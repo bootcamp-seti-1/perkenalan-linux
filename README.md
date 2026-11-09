@@ -40,3 +40,4 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 ## Daftar Isi
 - [P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
 - [P00 — date](docs/P00-date.md)
+- [P10 — folder luqman](docs/P10-luqman.md)
