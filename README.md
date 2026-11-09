@@ -45,5 +45,6 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 ## Daftar Isi
 - [P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
 - [P00 — date](docs/P00-date.md)
-- [P09 - Ona](docs/P09-Ona.md) 
+- [P09 - Ona](docs/P09-Ona.md)
+- [P09 - Ona](docs/P09-tar-zip.md) 
 - [P08 - Aulia Rahman M](docs/P08 - Aulia Rahman M.md)
