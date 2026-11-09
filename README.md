@@ -36,6 +36,7 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 ## Daftar CV
 - P11 - Muhammad Wijdan Alkhalid
 - P00 - Idan Al-Khalid
+- P04 - M Seagate Alfatih
 - P02 - Ahmad Fauzi Ariyanto
 - P09 - Noviana Nur Shanti
 - P08 - Aulia Rahman Mahyuddin (Agam)
