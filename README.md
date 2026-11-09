@@ -38,6 +38,7 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - P00 - Idan Al-Khalid
 - P09 - Noviana Nur Shanti
 - P08 - Aulia Rahman Mahyuddin (Agam)
+- P07 - Ikhsan Catur
 
 ## Daftar Isi
 - [P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
