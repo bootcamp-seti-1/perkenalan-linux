@@ -45,3 +45,4 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - [P00 — date](docs/P00-date.md)
 - [P09 - Ona](docs/P09-Ona.md) 
 - [P08 - Aulia Rahman M](docs/P08 - Aulia Rahman M.md)
+- [P02 - mkdir, cp, mv, rm](P02-mkdir-cp-mv-rm.md)
