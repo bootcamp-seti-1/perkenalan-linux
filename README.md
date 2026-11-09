@@ -33,6 +33,18 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - 3 contoh perintah + output dari laptop kamu sendiri
 - 1 kesalahan umum dan cara menghindarinya
 
+## Daftar CV
+- P11 - Muhammad Wijdan Alkhalid
+- P00 - Idan Al-Khalid
+- P04 - M Seagate Alfatih
+- P02 - Ahmad Fauzi Ariyanto
+- P09 - Noviana Nur Shanti
+- P08 - Aulia Rahman Mahyuddin (Agam)
+- P07 - Ikhsan Catur
+
 ## Daftar Isi
-[P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
-[P00 — date](docs/P00-date.md)
+- [P00 — cara mengerjakan tugas](docs/P00-cara-mengerjakan-tugas.md)
+- [P00 — date](docs/P00-date.md)
+- [P09 - Ona](docs/P09-Ona.md)
+- [P09 - Tar & Zip](docs/P09-tar-zip.md) 
+- [P08 - Aulia Rahman M](docs/P08 - Aulia Rahman M.md)
