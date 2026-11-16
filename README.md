@@ -49,3 +49,4 @@ Selamat datang di tim! Buku ini ditulis bersama oleh karyawan baru. Tiap orang m
 - [P09 - Tar & Zip](docs/P09-tar-zip.md) 
 - [P08 - Aulia Rahman M](docs/P08%20-%20Aulia%20Rahman%20M.md)
 - [P08-curl.md](docs/P08-curl.md)
+- [P07 - ps, kill, top](docs/P07-ps-kill-top.md)
